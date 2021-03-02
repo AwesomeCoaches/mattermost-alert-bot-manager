@@ -1,0 +1,3 @@
+[submodule "mattermost-alert-bot-manager"]
+	path = mattermost-alert-bot-manager
+	url = https://github.com/msnodeve/mattermost-alert-bot-manager.git
